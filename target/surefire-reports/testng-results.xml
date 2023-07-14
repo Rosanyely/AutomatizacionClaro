@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-13T22:56:12Z" name="Suite de pruebas de Regresión" finished-at="2023-07-13T22:58:13Z" duration-ms="120426">
+    <groups>
+    </groups>
+    <test started-at="2023-07-13T22:56:12Z" name="Test Curso Automatización" finished-at="2023-07-13T22:58:13Z" duration-ms="120426">
+      <class name="tests.Tests">
+        <test-method is-config="true" signature="inicioSuiteDePruebas()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:12Z" name="inicioSuiteDePruebas" finished-at="2023-07-13T22:56:12Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicioSuiteDePruebas -->
+        <test-method is-config="true" signature="preparacionClase()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:12Z" name="preparacionClase" finished-at="2023-07-13T22:56:16Z" duration-ms="3896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionClase -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:16Z" name="preparacionTest" finished-at="2023-07-13T22:56:21Z" duration-ms="4712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP001_Recarga()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:21Z" name="CP001_Recarga" finished-at="2023-07-13T22:56:26Z" duration-ms="5201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_Recarga -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:26Z" name="preparacionTest" finished-at="2023-07-13T22:56:28Z" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP002_RecargaConLineaInvalida()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:28Z" name="CP002_RecargaConLineaInvalida" finished-at="2023-07-13T22:56:33Z" duration-ms="4574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP002_RecargaConLineaInvalida -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:33Z" name="preparacionTest" finished-at="2023-07-13T22:56:35Z" duration-ms="2098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP003_RecuperarPassword()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:35Z" name="CP003_RecuperarPassword" finished-at="2023-07-13T22:56:48Z" duration-ms="12837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP003_RecuperarPassword -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:48Z" name="preparacionTest" finished-at="2023-07-13T22:56:50Z" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP004_RecuperarEmail()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:50Z" name="CP004_RecuperarEmail" finished-at="2023-07-13T22:56:58Z" duration-ms="7870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP004_RecuperarEmail -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:56:58Z" name="preparacionTest" finished-at="2023-07-13T22:57:00Z" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP005_IniciarSesionCorreoNoRegistrado()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:00Z" name="CP005_IniciarSesionCorreoNoRegistrado" finished-at="2023-07-13T22:57:06Z" duration-ms="6413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP005_IniciarSesionCorreoNoRegistrado -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:06Z" name="preparacionTest" finished-at="2023-07-13T22:57:08Z" duration-ms="1874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP006_TiendaOnlineSeleccionDeProducto()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:08Z" name="CP006_TiendaOnlineSeleccionDeProducto" finished-at="2023-07-13T22:57:16Z" duration-ms="8245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP006_TiendaOnlineSeleccionDeProducto -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:16Z" name="preparacionTest" finished-at="2023-07-13T22:57:18Z" duration-ms="1870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP007_TiendaOnlineSeleccionMediosDePago()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:18Z" name="CP007_TiendaOnlineSeleccionMediosDePago" finished-at="2023-07-13T22:57:24Z" duration-ms="6408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP007_TiendaOnlineSeleccionMediosDePago -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:24Z" name="preparacionTest" finished-at="2023-07-13T22:57:27Z" duration-ms="2383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP008_TiendaOnlineSeleccionEspecificaciones()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:27Z" name="CP008_TiendaOnlineSeleccionEspecificaciones" finished-at="2023-07-13T22:57:34Z" duration-ms="6825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP008_TiendaOnlineSeleccionEspecificaciones -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:34Z" name="preparacionTest" finished-at="2023-07-13T22:57:36Z" duration-ms="2030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP009_TiendaOnlineFiltroPrecio()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:36Z" name="CP009_TiendaOnlineFiltroPrecio" finished-at="2023-07-13T22:57:43Z" duration-ms="7344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP009_TiendaOnlineFiltroPrecio -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:43Z" name="preparacionTest" finished-at="2023-07-13T22:57:45Z" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP010_BotonVolverATiendaOnline()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:45Z" name="CP010_BotonVolverATiendaOnline" finished-at="2023-07-13T22:57:51Z" duration-ms="6740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP010_BotonVolverATiendaOnline -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:51Z" name="preparacionTest" finished-at="2023-07-13T22:57:53Z" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP011_TiendaOnlineCatalogoCompleto()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:53Z" name="CP011_TiendaOnlineCatalogoCompleto" finished-at="2023-07-13T22:57:58Z" duration-ms="4479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP011_TiendaOnlineCatalogoCompleto -->
+        <test-method is-config="true" signature="preparacionTest()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:57:58Z" name="preparacionTest" finished-at="2023-07-13T22:58:00Z" duration-ms="2751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTest -->
+        <test-method signature="CP012_TiendaOnlineFiltroPorMarca()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:58:00Z" name="CP012_TiendaOnlineFiltroPorMarca" finished-at="2023-07-13T22:58:07Z" duration-ms="6517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP012_TiendaOnlineFiltroPorMarca -->
+        <test-method is-config="true" signature="after()[pri:0, instance:tests.Tests@52aa2946]" started-at="2023-07-13T22:58:07Z" name="after" finished-at="2023-07-13T22:58:13Z" duration-ms="5694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Test Curso Automatización -->
+  </suite> <!-- Suite de pruebas de Regresión -->
+</testng-results>

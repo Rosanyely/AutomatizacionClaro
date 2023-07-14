@@ -1,0 +1,15 @@
+pages\Registrarse.class
+pages\ProductoMotoG.class
+pages\TiendaOnline.class
+utilidades\ClaseBase.class
+pages\HomePage.class
+utilidades\DataDriven.class
+utilidades\PropertiesDriven.class
+pages\IniciarSesionEmail.class
+pages\MarcaLenovo.class
+pages\Recarga.class
+pages\CatalogoDeProductos.class
+tests\Tests.class
+pages\IniciarSesionPassword.class
+pages\IngresaAClaro.class
+pages\RecuperarPassword.class
